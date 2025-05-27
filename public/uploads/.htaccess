@@ -1,0 +1,20 @@
+# Disable directory browsing
+Options -Indexes
+
+# Allow direct access to files in this directory
+<IfModule authz_core_module>
+    Require all granted
+</IfModule>
+
+# Allow handling of images
+<FilesMatch "\.(jpg|jpeg|png|gif|webp)$">
+    <IfModule mod_rewrite.c>
+        RewriteEngine off
+    </IfModule>
+</FilesMatch>
+
+# Disable PHP execution in this directory
+<FilesMatch "\.php$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch> 
