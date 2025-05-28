@@ -96,4 +96,4 @@ Aplikasi berita sederhana dengan backend CodeIgniter 4 dan frontend Flutter.
 
 ## Output
 
-[🎥 Klik untuk menonton video demo](https://raw.githubusercontent.com/cahayaindrasmara/ci-berita-transisi-animasi/main/videoMp4/flutter_berita_app%202025-05-27%2016-48-56.mp4)
+[🎥 Klik untuk menonton video demo](https://drive.google.com/file/d/10tBg7fkaj1Sj9M8m0A8Fr57yVJgdjomg/view?usp=sharing)
