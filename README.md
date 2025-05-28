@@ -96,4 +96,4 @@ Aplikasi berita sederhana dengan backend CodeIgniter 4 dan frontend Flutter.
 
 ## Output
 
-[🎥 Klik untuk menonton video demo](https://drive.google.com/file/d/10tBg7fkaj1Sj9M8m0A8Fr57yVJgdjomg/view?usp=sharing)
+[[🎥 Menonton video demo]![Image](https://github.com/user-attachments/assets/31273dc7-1e41-46dd-93b2-ce7aa2e0c4a9)](https://drive.google.com/file/d/10tBg7fkaj1Sj9M8m0A8Fr57yVJgdjomg/view?usp=sharing)
